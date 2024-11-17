@@ -2,7 +2,7 @@
 
 ## Libraries and Tools
 
-For this analysis, we will use the following libraries and tools in Google Colab:
+For this analysis, we will use the following libraries and tools in jupyter Notebook:
 
 1. Pandas: For data manipulation and analysis
 
